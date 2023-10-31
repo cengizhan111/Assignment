@@ -19,6 +19,6 @@ Explicitly design and show the below equation on our Design Simulator.
 4- Standard set equipments  
 
 ### Screenshots
-
+https://i.imgur.com/HxuD11h.gif
 *Insert Screenshots here*
 https://imgur.com/rAk9NTR

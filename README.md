@@ -21,3 +21,4 @@ Explicitly design and show the below equation on our Design Simulator.
 ### Screenshots
 
 *Insert Screenshots here*
+https://imgur.com/rAk9NTR
